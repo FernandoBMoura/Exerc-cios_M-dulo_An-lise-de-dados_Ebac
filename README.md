@@ -1,2 +1,2 @@
-# Exerc-cios_M-dulo_An-lise-de-dados_Ebac
+# Exercícios_Módulo_Análise-de-dados_Ebac
 Curso Análista de Dados EBAC
